@@ -46,3 +46,4 @@ Function.prototype.myBind = function(context) {
 //   boundTurnOn(); // should say "Turning on a lamp"
 //   myBoundTurnOn(); // should say "Turning on a lamp"
 
+    
